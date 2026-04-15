@@ -1,9 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Kartick%20Sau&fontSize=40&fontColor=ffffff" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&color=00F7FF&center=true&vCenter=true&width=800&lines=Java+Backend+Developer;Spring+Boot+%7C+Microservices+%7C+Kafka;Scalable+System+Designer;Fintech+Backend+Engineer" />
+  <img src="https://raw.githubusercontent.com/KArtickCode/KArtickCode/main/banner.png" alt="banner"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm Kartick Sau</h1>
