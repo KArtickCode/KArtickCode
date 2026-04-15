@@ -1,6 +1,6 @@
 <!-- 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/KArtickCode/KArtickCode/main/banner1.png" alt="banner1"/>
+  <img src="https://raw.githubusercontent.com/KArtickCode/KArtickCode/main/banner.png" alt="banner"/>
 </p>
 -->
 
