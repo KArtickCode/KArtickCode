@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/KArtickCode/KArtickCode/main/banner.png" alt="banner"/>
+  <img src="https://raw.githubusercontent.com/KArtickCode/KArtickCode/main/banner.png" alt="banner1"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm Kartick Sau</h1>
