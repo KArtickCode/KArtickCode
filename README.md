@@ -1,3 +1,5 @@
+https://raw.githubusercontent.com/KArtickCode/KArtickCode/main/banner.png
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/KArtickCode/KArtickCode/main/banner.png" alt="banner"/>
 </p>
