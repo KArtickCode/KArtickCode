@@ -1,11 +1,11 @@
-<!-- 
+ 
 <p align="center">
   <img src="https://raw.githubusercontent.com/KArtickCode/KArtickCode/main/banner.png" alt="banner"/>
 </p>
--->
 
+<!--
 <h1 align="center">Hi 👋, I'm Kartick Sau</h1>
-
+-->
 
 <h3 align="center">🚀 Java Backend Developer | Spring Boot | Microservices | Kafka Enthusiast</h3>
 
