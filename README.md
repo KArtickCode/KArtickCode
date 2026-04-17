@@ -50,6 +50,7 @@ I design and build scalable backend systems using Spring Boot, Microservices, an
 
 ---
 
+<!--
 ## 🏆 GitHub Achievements
 
 <p align="center">
@@ -57,6 +58,7 @@ I design and build scalable backend systems using Spring Boot, Microservices, an
 </p>
 
 ---
+-->
 
 
 ## 📊 GitHub Stats
