@@ -53,8 +53,14 @@ I design and build scalable backend systems using Spring Boot, Microservices, an
 ## 🏆 GitHub Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=KArtickCode&theme=algolia&no-frame=true&margin-w=10&margin-h=10" />
+
+<img src="https://github-profile-trophy.vercel.app/?username=KArtickCode&theme=algolia&no-frame=true&row=1&column=4" width="48%"/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=KArtickCode&theme=algolia&no-frame=true&row=1&column=4&margin-w=15" width="48%"/>
+
 </p>
+
+---
 
 ## 📊 GitHub Stats
 
