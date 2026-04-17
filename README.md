@@ -54,13 +54,12 @@ I design and build scalable backend systems using Spring Boot, Microservices, an
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=KArtickCode&theme=algolia&no-frame=true&row=1&column=4" width="48%"/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=KArtickCode&theme=algolia&no-frame=true&row=1&column=4&margin-w=15" width="48%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=KArtickCode&theme=tokyonight&no-frame=true&row=1&column=6" />
 
 </p>
 
 ---
+
 
 ## 📊 GitHub Stats
 
